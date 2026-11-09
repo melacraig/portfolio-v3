@@ -20,7 +20,7 @@ export default function Contact() {
           <span className="t-script" style={{ color: 'var(--rose)' }}>amazing</span>
         </h2>
 
-        <a href="mailto:melanieycraig@gmail.com" className="contact-mail">melanieycraig@gmail.com</a>
+        <a href="mailto:hello@melaniecraig.art" className="contact-mail">hello@melaniecraig.art</a>
 
         <span className="t-body" style={{ color: 'var(--muted-on-dark)', letterSpacing: '.01em' }}>
           Available for new opportunities
